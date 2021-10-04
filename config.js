@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Helo cậu',
+    introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha :))`,
+    btnIntro: 'Oki Trang',
+    title: 'Cậu yêu tớ có phải không 😙',
+    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là ny tớ đó nha :>',
+    btnYes: 'Yêu ơi là iuuu <3',
+    btnNo: 'cậu mơ à :<<',
+    question: 'Nói cho tới lý do vì sao cậu yêu tớ đi <3',
+    btnReply: 'Gửi cho Trang',
+    reply: 'Tại vì cậu quá xinh đó hihi <33333',
+    mess: 'Tớ biết mà hihi 🥰 ',
+    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    btnAccept: 'Ok Trang iu của tớ <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100056465652561', //link fb
+    bgLink: 'https://c4.wallpaperflare.com/wallpaper/880/299/772/tree-heart-hearts-love-wallpaper-preview.jpg', //link ảnh nền
+    iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
+    lookMeLink: 'https://i.pinimg.com/originals/c9/e3/ff/c9e3ff99c0c997ec9572ffae6ad837cc.jpg', //link ảnh lookMe
+    soundLink: './sound.mp3', //link nhac
+    duckLink: 'https://huypham9205.github.io/tang-crush/sound/duck.mp3', //link aam thanh 1
+    swishLink: 'https://huypham9205.github.io/tang-crush/sound/Swish1.mp3', //link swish
 }

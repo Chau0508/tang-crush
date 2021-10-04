@@ -12,7 +12,7 @@ const CONFIG = {
     mess: 'Tớ biết mà hihi 🥰 ',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Ok Trang iu của tớ <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100056465652561', //link fb
+    messLink: 'https://www.facebook.com/profile.php?id=100070654579082', //link fb
     bgLink: 'https://c4.wallpaperflare.com/wallpaper/880/299/772/tree-heart-hearts-love-wallpaper-preview.jpg', //link ảnh nền
     iputBgLink: 'https://huypham9205.github.io/tang-crush/img/iput-bg.jpg', //link iputBgLink
     lookMeLink: 'https://i.pinimg.com/originals/c9/e3/ff/c9e3ff99c0c997ec9572ffae6ad837cc.jpg', //link ảnh lookMe
